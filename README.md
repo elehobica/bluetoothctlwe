@@ -1,3 +1,7 @@
+**OverView**
+
+This repository is forked from https://bitbucket.org/serkanp/bluetoothctl.git
+
 **Linux command line bluetoothctl wrapper for nodejs**
 
 powerful command line utulity bluetoothctl for discovery, connect,disconnect, scan, pair etc.. 
