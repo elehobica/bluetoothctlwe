@@ -1,6 +1,6 @@
 {
   "name": "bluetoothctlwe",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "linux bluetoothctl wrapper (also works with arm devices like raspberry pi)",
   "main": "index.js",
   "scripts": {
